@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Higher Lower</string>
+    <string name="intro_text">Guess if the next throw is going to be lower, equal or higher.</string>
+    <string name="last_throw_display">Last Throw: %d</string>
+    <string name="lower_btn">Lower</string>
+    <string name="equals_btn">Equals</string>
+    <string name="higher_btn">Higher</string>
+    <string name="diceDescription">The thrown dice</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+</resources>
